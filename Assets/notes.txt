@@ -1,0 +1,12 @@
+Cinemachine is installed from Unity Register. Menu is under GameObjects, allows you to easily setup cameras.
+
+Framing transposer is the camera type to set virtual camera too.
+Then set follow to GameObject.
+
+-= PLAYER FACING =-
+rotation
+Y +90 = Up
+Y -90 = Right
+Y -270 = Left
+
+if collide - rotate Z to 90!
